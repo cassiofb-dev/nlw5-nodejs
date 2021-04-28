@@ -1,0 +1,1 @@
+export default (): string => (new Date(Date.now())).toUTCString();
